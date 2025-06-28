@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}
